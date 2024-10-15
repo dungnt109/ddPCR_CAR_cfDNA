@@ -319,7 +319,7 @@ final.qc.call <- c("\\textbf{\\textcolor{red}{WARNING}}","\\textbf{\\textcolor{d
 \end{tabular}
 
 
-# MRD calculation
+# CAR calculation
 
 ```{r mrd_calculation, echo=FALSE, comment=""}
 # cell contration at fullow up
@@ -489,7 +489,7 @@ mrd.output.values <- as.matrix(mrd.output.values)
 
 colnames(mrd.output.values) <- "Values"
 
-kable(mrd.output.values, caption = "Summary of MRD calculation.")
+kable(mrd.output.values, caption = "Summary of CAR calculation.")
 
 
 

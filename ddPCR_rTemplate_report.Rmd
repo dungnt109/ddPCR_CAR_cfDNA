@@ -478,7 +478,7 @@ if (params$runType == "absolute") {
 		                              "Absolute NTV", 
 		                              "", 
 			                          
-		                              "Assessable GE Numbers", 
+		                              "Assessable Cell Numbers", 
 		                              "Call")
 
 
